@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.og-title {
+  display: flex;
+  justify-content: center;
+  color: rgb(28, 111, 28);
+  font-weight: bold;
+  padding: 5px;
+}
+
+.og-title > .title {
+  color: black;
+  margin-left: 2px;
+}
+
+.container_styles {
+  height: 600px;
+  /* height: 300px; */
+  width: 600px;
+  /* width: 300px; */
+  border: 2px solid rgb(255, 97, 124);
+}
